@@ -114,3 +114,11 @@ I build production AI agents for companies — data collection, research, automa
 ---
 
 **Know a tool I missed?** [Open an issue](https://github.com/spinov001-art/awesome-ai-agents-2026/issues).
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**

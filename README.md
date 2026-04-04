@@ -109,7 +109,7 @@ Agent = LLM + Tools + Loop
 
 ## Need Custom AI Agents?
 
-I build production AI agents for companies — data collection, research, automation. **[Hire me →](https://spinov001-art.github.io)**
+I build production AI agents for companies — data collection, research, automation. **📧 **spinov001@gmail.com** — custom quote in 2 hours**
 
 ---
 

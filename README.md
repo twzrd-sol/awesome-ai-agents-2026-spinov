@@ -49,6 +49,7 @@ AI agents went from research demos to production tools. This list separates the 
 | **Apify MCP Actors** | 859+ MCP-compatible scrapers | apify.com/store |
 | **Composio** | 150+ tool integrations for agents | composio.dev |
 | **Toolhouse** | Managed tool infrastructure | toolhouse.ai |
+| **TWZRD Agent Intel** | Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments | intel.twzrd.xyz |
 
 **MCP Cookbook:** [15 ready-to-use MCP servers](https://github.com/spinov001-art/claude-mcp-cookbook)
 
